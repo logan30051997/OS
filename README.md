@@ -30,3 +30,10 @@ Các OS và version
 
 [Iso](http://download.takehoa.org/iso/)
 
+## CentOS/Red Hat 
+
+1. [CentOS 7 Desktop](http://mirrors.nhanhoa.com/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso)
+2. [CentOS 7 Server](http://mirrors.nhanhoa.com/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-Minimal-2009.iso)
+3. [CentOS 8 Desktop](http://mirror.horizon.vn/centos/8.3.2011/isos/x86_64/CentOS-8.3.2011-x86_64-dvd1.iso)
+4. [CentOS 8 Server](http://mirror.horizon.vn/centos/8.3.2011/isos/x86_64/CentOS-8.3.2011-x86_64-boot.iso)
+
