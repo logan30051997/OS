@@ -1,6 +1,23 @@
-# Repo
+# Cài đặt Repositories và Repo service liên quan
 
-# Service
+**Cài đặt Yum-ultils**
+
+```yum install yum-utils```
+
+```yum-config-manager --add-repo "link repo"```
+
+## Repo
+
+**Link repo**
+- [Inet repo](http://mirrors.inet.vn/centos/)
+- [IDC repo](http://centos-hcm.viettelidc.com.vn/)
+
+Ví dụ: 
+```yum-config-manager --add-repo "http://mirrors.inet.vn/centos/7/updates/x86_64/"```
+
+*Lưu ý: Chọn version phù hợp và / cần*
+
+## Service
 
 1. [Mongo DB](https://repo.mongodb.org/yum/redhat/7/mongodb-org/3.3/x86_64/)
 2. [MySQL 5.7](https://repo.mysql.com/yum/mysql-5.7-community/el/7/x86_64/)
@@ -10,3 +27,7 @@
 6. [PostgreSQL 10](https://download.postgresql.org/pub/repos/yum/10/redhat/rhel-7-x86_64)
 7. [Rsyslog](http://rpms.adiscon.com/v8-stable/epel-7/x86_64/)
 8. [VirtualBox](http://download.virtualbox.org/virtualbox/rpm/rhel/7/x86_64/)
+
+
+Ví dụ: 
+```yum-config-manager --add-repo "http://nginx.org/packages/centos/7/x86_64/"```
