@@ -1,5 +1,6 @@
 # OS
 Các OS và version
+
 ## Ubuntu
 
 1. [Ubuntu 18.04 Desktop](https://releases.ubuntu.com/18.04.5/ubuntu-18.04.5-desktop-amd64.iso)
@@ -18,5 +19,14 @@ Các OS và version
 
 ## OpenSUSE/SUSE Linux Enterprise
 
+1. [OpenSUSE Leap 15.2](http://download.opensuse.org/distribution/leap/15.2/iso/openSUSE-Leap-15.2-DVD-x86_64.iso)
+2. [SUSE Enterprise Server 12SP3](http://download.takehoa.org/iso/SLE-12-SP3-Server-DVD-x86_64-GM-DVD1.iso)
+3. [SUSE Enterprise Server 12SP4](http://download.takehoa.org/iso/SLE-12-SP4-Server-DVD-x86_64-GM-DVD1.iso)
+4. [SUSE Enterprise Server 12SP5](http://download.takehoa.org/iso/SLE-12-SP5-Server-DVD-x86_64-GM-DVD1.iso)
 
-1. 
+**Repo và file ISO**
+
+[Repo]
+
+[Iso](http://download.takehoa.org/iso/)
+
