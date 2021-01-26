@@ -13,6 +13,7 @@
 - [IDC repo](http://centos-hcm.viettelidc.com.vn/)
 
 Ví dụ: 
+
 ```yum-config-manager --add-repo "http://mirrors.inet.vn/centos/7/updates/x86_64/"```
 
 *Lưu ý: Chọn version phù hợp và / cần*
@@ -30,4 +31,5 @@ Ví dụ:
 
 
 Ví dụ: 
+
 ```yum-config-manager --add-repo "http://nginx.org/packages/centos/7/x86_64/"```
