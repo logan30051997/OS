@@ -11,6 +11,7 @@
 **Link repo**
 - [Inet repo](http://mirrors.inet.vn/centos/)
 - [IDC repo](http://centos-hcm.viettelidc.com.vn/)
+- [Remi repo](http://mirrors.mediatemple.net/remi/enterprise/7/remi/x86_64/)
 
 Ví dụ: 
 
