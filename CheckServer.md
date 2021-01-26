@@ -39,3 +39,27 @@
 - **Kiểm tra slot cắm Ram**
 
 ```dmidecode -t memory | grep -i "Number of devices"```
+
+## 4. Tiến trình đang chạy
+
+
+- **Kiểm tra tiến trình**
+
+```top htop```
+
+```ps aux```
+
+## 5. Các Service, Port đang mở 
+
+- **Cổng đang mở**
+
+```netstat -tulpn```
+
+- **Các Service đang chạy**
+
+```systemctl list-unit-files | grep enabled```
+
+## 6. Kiểm tra Network, IP, Time
+
+``` ip a```
+
