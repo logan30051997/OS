@@ -61,5 +61,14 @@
 
 ## 6. Kiểm tra Network, IP, Time
 
-``` ip a```
+- **Địa chỉ ip và route**
+```sh
+ip a # Kiểm tra địa chỉ ip
+ip r # Kiểm tra route ip
+```
+- **Định dạng ngày, vùng**
+
+```date```
+
+
 
