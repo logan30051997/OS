@@ -69,6 +69,10 @@ ip r # Kiểm tra route ip
 - **Định dạng ngày, vùng**
 
 ```date```
+## 7. Kiểm tra định dạng ổ cứng
 
+``` df -Th```
+
+```
 
 
