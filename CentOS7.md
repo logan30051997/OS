@@ -29,6 +29,7 @@ Ví dụ:
 6. [PostgreSQL 10](https://download.postgresql.org/pub/repos/yum/10/redhat/rhel-7-x86_64)
 7. [Rsyslog](http://rpms.adiscon.com/v8-stable/epel-7/x86_64/)
 8. [VirtualBox](http://download.virtualbox.org/virtualbox/rpm/rhel/7/x86_64/)
+9. [MariaDB Server](https://mariadb.org/download/#mariadb-repositories)
 
 
 Ví dụ: 
