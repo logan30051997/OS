@@ -35,3 +35,5 @@ Ví dụ:
 Ví dụ: 
 
 ```yum-config-manager --add-repo "http://nginx.org/packages/centos/7/x86_64/"```
+
+
