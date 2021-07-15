@@ -1,5 +1,7 @@
 # Kiểm tra thông tin cơ bản khi vào Server
 
+Doc Tools: https://www.makeuseof.com/open-source-tools-to-secure-linux-server/
+
 ## 1. Kiểm tra OS, Kernel, Arch(Architecture)
 
 
