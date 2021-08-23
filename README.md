@@ -3,10 +3,9 @@ Các OS và version
 
 ## Ubuntu
 
-1. [Ubuntu 18.04 Desktop](https://releases.ubuntu.com/18.04.5/ubuntu-18.04.5-desktop-amd64.iso)
-2. [Ubuntu 18.04 Server](https://releases.ubuntu.com/18.04.5/ubuntu-18.04.5-live-server-amd64.iso)
-3. [Ubuntu 20.04 Desktop](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-desktop-amd64.iso)
-4. [Ubuntu 20.04 Server](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-live-server-amd64.iso)
+1. [Ubuntu 18.04 LTS](https://releases.ubuntu.com/bionic/)
+2. [Ubuntu 20.04 LTS](https://releases.ubuntu.com/focal/)
+3. [Ubuntu 21.04](https://releases.ubuntu.com/hirsute/)
 
 ## Debian
 
